@@ -9,7 +9,7 @@
 
 
 
-[Website](https://www.TheBookInn.com "Website") • [Desktop Version](https://www.TheBookInn.com "Installation") • [Mobile Version](https://www.TheBookInn.com "Mobile-download") • [About](https://www.TheBookInn.com)
+[Website](https://www.TheBookInn.com "Website") • [Desktop](https://www.TheBookInn.com "Installation") • [Mobile](https://www.TheBookInn.com "Mobile-download") • [About](https://www.TheBookInn.com)
 
 
 ------------
